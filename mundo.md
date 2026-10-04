@@ -6,11 +6,18 @@
 - El mundo conocido gira en torno al **Imperio de Yulan** (玉兰, "magnolia"), la potencia central del continente de **Wuling**.
 - La capital es **Yulan** —"la de Mármol" para el vulgo—, ciudad de canales, funcionarios y murmuraciones.
 - El relato arranca en una provincia fértil y húmeda: la **Cuenca del Río Nube**, donde llueve tanto que hasta los chismes salen con paraguas.
+- La provincia es, además, **rica en Qi ambiental**: el aire está cargado de energía espiritual. Por eso los cultivos son buenos, los árboles enormes y la gente vive más. (Bao An lo descubre en el cap. 29.)
+- Al **oeste** hay otras tierras, con otra gente y otras costumbres. De allá llegan **mercaderes de occidente** con mercancías raras: telas, animales y **plantas** (entre ellas el **chile** y el **maíz**).
 
 ## 2. Sociedad y jerarquías
 - Imperio burocrático con exámenes, títulos y etiqueta milenaria. La jerarquía es sagrada... en teoría.
 - Clases sociales: nobleza antigua (los "de cuna"), nobleza comprada (los "de bolsillo"), funcionarios, comerciantes, campesinos y artesanos.
 - Existe el cultivo del **Qi** (ver `PoderesYNiveles.md`), que mezcla prestigio, poder militar y —lo que le importa al prota— **longevidad**.
+- Existe la **adivinación**: videntes raros y caros que leen señales sobre nacimientos, fortunas y destinos. La gente culta la respeta a medias... hasta que acierta.
+- La región se organiza en **prefecturas**. En cada una, los clanes compiten por el poder, y **medir a los descendientes** (conversando, provocando, apostando) es la costumbre: sirve para saber cómo viene **la próxima generación**. En la práctica, es un deporte entre los jóvenes (los adultos no intervienen).
+- **Los maestros**: un maestro es **de gran respeto** (se le nombra "el maestro", como a un padre). Viven **recluidos buscando el Dao** y avanzando en sus niveles de cultivo; por eso **casi no se ven**: bajan a ver a sus discípulos cada **medio año** (en el mejor de los casos), o cada **cinco** si la reclusión es larga.
+- **Longevidad**: los cultivadores viven muchísimo. Refinamiento del Qi (9º) → ~130 años; Cimentación → ~240. Por eso, aquí, **alguien de 50 años es joven** (y nadie tiene prisa).
+- **Torneos imperiales:** la corona convoca **exámenes y torneos** cada cierto número de años, con premios ("lo que pidas"). Por **edicto**, son obligatorios para **todo joven de 12 a 35** años (aún "joven" para un cultivador). Miden **poder, técnica y cabeza** (incluye un duelo de estrategia).
 
 ## 3. La nobleza (y el chiste de comprarla)
 - Los nobles "de cuna" desprecian a los nobles "de bolsillo": gente que **compró su título** con dinero.
@@ -31,11 +38,13 @@
 ## 6. Cultura, comida, música y costumbres
 - Cocina local: guisos, caldos, especias y un respeto casi religioso por el arroz.
 - Jorge, sin embargo, extraña los tacos. *Siempre* extraña los tacos.
+- Y un día deja de extrañarlos: un mercader de occidente trae **maíz** y **chile** → **tortillas** y **platillos picantes** (terror de los primerizos; vicio de la familia).
 - Fiestas locales con tambores y cometas; Jorge, en cuanto puede, las "mexicaniza" (sin permiso de nadie).
 - La costumbre de los banquetes y las ceremonias está tan ritualizada que a un ingeniero le provoca un error de sistema.
 
 ## 7. Economía
 - El motor de la Casa Bao: herencias invertidas, rentas de bodegas, contratos con el imperio y un olfato comercial heredado del abuelo.
+- **Inventos:** la Casa Bao **factura** con las máquinas que Bao An "riega" (bomba de agua, estufa, molino, riego, carreta...): maravillas para el pueblo, oro para la casa (las registra el gremio y cobra). El padre y el abuelo están encantados.
 - Jorge trae consigo la lógica del **México del siglo XXI**: oferta, demanda, logística, eficiencia. Nadie de este mundo está listo para que un niño les optimice el negocio familiar.
 - El **banco del río**: guarda cuentas antiguas de la Casa Bao. El abuelo Bao Qianshan dejó ahí una **cuenta secreta a nombre de Jorge** (su llave es un anillo de piedra opaca).
 

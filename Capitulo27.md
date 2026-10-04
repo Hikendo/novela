@@ -240,11 +240,7 @@ Pero la IA sí.
 
 *Ah.*
 
-*Entonces yo no le di el poder.*
-
-*Yo le quité el miedo.*
-
-*Y el poder se dio solo.*
+*Entonces se confirma que los nudos frenan el qi.*
 
 ---
 
@@ -258,7 +254,7 @@ Y mi madre dijo la frase que dejó a todos callados:
 
 —Yo cultivo —dijo mi padre, ofendido—. Una hora al amanecer.
 
-—No. Licuaste.
+—No. Rompiste el muro.
 
 Silencio.
 
@@ -373,4 +369,3 @@ PLANEACIÓN — CAPÍTULO 28 (propuesta):
 - Se abre el conflicto/la intriga grande.
 ========================================================
 -->
-

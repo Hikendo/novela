@@ -269,7 +269,7 @@ Y ahí estaba el problema.
 > No tiene afinidad particular. No brilla con nada. El Qi lo acepta a él sin preferencia.
 ```
 
-*O sea, no tengo raíz.*
+*O sea, no tengo afinidad.*
 
 ```
 [ MODO MACHO: ACTIVADO ]
@@ -387,7 +387,7 @@ GANCHO (fin del Capítulo 28)
 PLANEACIÓN — CAPÍTULO 29 (propuesta):
 - Arco externo ("el arriba"): Clan Shen, el anillo del abuelo, el "fenómeno Bao An".
 - Alguien de fuera nota que en esta casa todos suben sin elixir ni tribulación.
-- Jorge practica técnicas de verdad; elige qué elemento trabajar pese a no tener raíz.
+- Jorge practica técnicas de verdad; elige qué elemento trabajar pese a no tener afinidad.
 ========================================================
 -->
 

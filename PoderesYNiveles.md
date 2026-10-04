@@ -30,7 +30,7 @@
 |---|---|---|---|---|---|
 | 0 | Sin despertar | "Modo avión" | Lo normal | 0 | Un vecino cualquiera |
 | 1 | Respiración del Qi | "Prender el router" | Un poco más | +5 aprox. | Ya aguantas cargar la compra |
-| 2 | Refinamiento del Cuerpo | "Firmware 1.0" | Fuerte de verdad | +15 aprox. | Te salen espaldas |
+| 2 | Refinamiento del Qi (del Cuerpo) | "Firmware 1.0" | Fuerte de verdad | +15 aprox. | Te salen espaldas |
 | 3 | Cimentación | "Base de datos" | Muro humano | +50 aprox. | Ya frenas a un caballo |
 | 4 | Núcleo Dorado | "Servidor propio" | Arrasa con un pueblo | +150 aprox. | Aquí empieza el respeto (y la envidia) |
 | 5 | Alma Naciente | "Cloud computing" | Casi inapelable | +300 aprox. | Aquí ya no te mueres por gripe |
@@ -65,6 +65,34 @@
   3. **Movimiento** — el gesto. El Qi sigue al gesto. (Los parámetros.)
 - Si una parte falla, la técnica no sale — o sale mal. Y "mal" en Qi suele terminar en humo. Propio.
 - Jorge lo entiende como **código**: comando + permisos + parámetros. Por eso se le da: "no correr" no le ofende, le da datos.
+
+## 2-C. Objetos espirituales y Qi ambiental
+- **Objetos espirituales:** cada raíz acelera su cultivo cerca de objetos de su elemento (metal con metal, fuego con fuego...). Es el "cargador correcto"; uno equivocado no sirve o hace daño.
+- **Qi ambiental:** hay regiones ricas en Qi. La Casa Bao vive en una: por eso los cultivos son buenos, la gente vive más, y hasta quien no cultiva se va cargando de a poco.
+- **Objeto de rayo (raíz mutada):** conseguirlo es rarísimo; sirve para "ver" cómo se comporta una energía y aprender a manejarla.
+- **Contenedores de jade:** los objetos espirituales se guardan en **jade**, porque el jade **no deja que la energía se escape** (cliché del género que aquí funciona de verdad).
+- **Hipótesis de Bao An (vía IA):** con Qi abundante, la gente **absorbe conocimiento más fácil**. Por eso el conocimiento se queda en quien lo practica; por eso cada técnica de cultivo es única y **no existe una universal** (nadie verificó *por qué* funciona; solo se sabe que funciona).
+
+## 2-D. Infundir Qi y los niveles de la Casa Bao
+- **Infundir Qi:** para ejecutar una técnica, el Qi no se "guarda": se **usa**. Se lleva al **hueso** (no a la carne) y de ahí al punto de salida. La carne es la envoltura; el hueso, el cable.
+- **Niveles de la familia** (etapa · nivel, tras el arco "Entender la energía"):
+
+| Personaje | Etapa | Nivel |
+|---|---|---|
+| Padre (Bao Zhengyi) | Cimentación | recién entrado |
+| 4º (Shan) | Refinamiento del Qi | 9º |
+| 3ª (Ling) | Refinamiento del Qi | 8º |
+| 1º (Cheng) | Refinamiento del Qi | 7º |
+| 6º (Wu) | Refinamiento del Qi | 7º |
+| 2º (Yong) | Refinamiento del Qi | 6º |
+| 5º (Wen) | Refinamiento del Qi | 5º |
+| **Bao An** | Refinamiento del Qi | 7º |
+
+## 2-E. Longevidad y el problema del recipiente
+- **Longevidad (etapa → vida):** Refinamiento del Qi, 9º nivel → **~130 años**. Cimentación → **~240**. Más arriba, más. Por eso, aquí, **alguien de 50 años es joven**.
+- **El problema del recipiente:** el cuerpo es la **vasija**; el Qi, el agua. Una vasija chica no aguanta más: forzarla da **desviación** o muerte. El cuello de botella no siempre es el Qi, sino el envase.
+- **Cultivo de cuerpo:** pocos lo hacen; mantener el cuerpo (comida, agua, sueño, entrenamiento) **agranda la vasija** → el Qi sube más.
+- **Los hechizos como física:** cada elemento se entiende mejor estudiando su **estructura** (metal), sus **estados** (agua), sus **órganos y control** (madera), su **reacción** (fuego) y sus **mezclas** (combinaciones). Semilla del **cuaderno de proporciones**.
 
 ## 3. Cómo se cultiva
 - Ejercicio, respiración, meditación, técnicas, píldoras y una buena dosis de **suerte**.

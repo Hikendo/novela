@@ -64,6 +64,13 @@ Cada vez que aparezca un cliché del género, se compara con el cliché **origin
 
 Regla: el cliché no se evita, se usa y **se le hace burla**.
 
+### Clichés que ABRAZAMOS (usados a propósito)
+- **Contenedor de jade** para los objetos espirituales (no deja escapar la energía).
+- **Píldoras/elixires milagrosos**; el **anciano misterioso**; el **joven maestro arrogante** (ya en escena: Shen Yuhang).
+- El **anillo/tesoro del abuelo** guardado "para cuando lo necesites".
+- Las **raíces espirituales** (y las **mutadas**, que son el "cheat" del género).
+- Se usan con cariño. Y cuando conviene, Jorge (o el narrador) **los reconoce como clichés** y se ríe de sí mismo por reconocerlos.
+
 ## 5. Léxico y albures
 - Los albures se colocan, **no se explican**. El narrador solo los celebra.
 - Ejemplo oficial (albur del taquero):
@@ -124,4 +131,39 @@ Reglas:
 - La IA debe **marcar lo que inventa**. Ya no afirma invenciones como verdades: si no lo sabe, dice "no lo sé".
 - Sigue alucinando (es beta), pero **avisa** cuando lo hace. Jorge la corrige y la educa.
 - Como recompensa, el MODO MACHO puede **presumir una vez al mes**.
+
+## 12. Arco "La escuela sin querer" (caps. 29–35)
+- Bao An funda sin querer una **escuela de pensamiento científico**: método = **preguntar, probar, corregir**.
+- Regla de oro del arco: **la magia es lo que todavía no entendemos** (cuando se entienda, cambiará de nombre).
+- No hay técnica universal: todo el mundo cultiva **"de oído"**.
+- Excepción: aquí SÍ se permite que el **Macho cantinflee** (raro, pero le queda bien).
+
+## 13. Interludio en testimonios (excepción de voz)
+- Excepcionalmente se permite un capítulo en **testimonios en 1ª persona**, uno por personaje.
+- Solo se usa para revelar lo que Bao An **no puede saber**: secretos de nacimiento, pláticas privadas, pensamientos ajenos.
+- En esos capítulos **Bao An NO narra**. Los testimonios pueden **contradecirse** entre sí (cada quien cuenta su versión).
+- Cada bloque empieza con **el nombre del testigo** entre corchetes: `**[El padre. Nombre.]**`.
+
+## 14. Recurso: informes de informantes (vista de fuera)
+- Para mostrar lo que pasa **fuera** de la cabeza de Bao An sin romper la 1ª persona, se usan **reportes/actas/registros** en bloque (informes de espías, notas internas de las casas, registros imperiales).
+- Los informes **se contradicen, se equivocan y se rinden**: nadie sabe qué pasa dentro de la Casa Bao (y ahí está la gracia).
+- **Formato (distinto del de la IA):** encabezado en negritas con `▌` + byline en cursiva + viñetas `·`, **sin cercas de código**. Los bloques de la **IA** y del **MODO MACHO** sí van con ` ``` ` y `> `; los informes, no, para no confundirlos.
+
+**▌ INFORME — CLAN SHEN**
+*Un informante.*
+· Línea del informe.
+· Otra línea.
+
+## 15. Los jóvenes amos: la cortesía que corta
+- Los jóvenes amos de la prefectura **NO insultan de frente**: eso es de plebeyos.
+- **Insultan de forma velada:** con una sonrisa, un cumplido y una cortesía que en realidad entierra. (Ej.: "tan discreto" = "no vale"; "curioso" = "no es de los nuestros".)
+- **Nunca** le dicen "raro" a alguien en la cara; lo dicen con el cuerpo, con una pausa o con un elogio.
+- Jorge **traduce** (en cursiva) lo que de verdad quisieron decir.
+
+## 16. Nada de "meta" en el texto narrado
+- Los personajes **NO saben** que están en una novela. Nadie dice "en este capítulo", "en el arco", "en esta novela", "el lector", ni "sub-arco".
+- Las palabras **arco**, **sub-arco**, **capítulo**, **gancho**, **lector** solo existen en los **comentarios de planeación** (`<!-- -->`).
+- Excepción: dentro de un documento en-world (p. ej. un informe), "lector" puede referirse a quien lo lee.
+
+- **Regla de estilo:** las **actitudes fuertes se muestran; los lemas se ahorran.** (Ej.: la autoridad de Ling se ve en su cara, en las mujeres que la siguen y en los ojos morados ajenos — no en una frase.)
 
