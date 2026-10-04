@@ -118,6 +118,7 @@
 - **Rol:** Joven ama de la **Casa Pei** (la casa de los **barcos**). La más lista de la prefectura.
 - **Personalidad:** Directa y curiosa; pregunta de frente. Se fija en Bao An ("me caes bien").
 - **Actualidad:** Visita a Bao An **insistentemente** (19 veces en 2 años); le trae libros; ya fue dos veces al torneo. "Si pierdes, te salvo."
+- **Torneo (matriz de ilusión):** la emparejan **con Bao An en el mismo pueblo** → **duelo de ingenio** entre sus soluciones. "Eres imposible… y por eso me caes bien."
 - **Estado:** Vigente.
 
 ### Hou Zhen
@@ -134,6 +135,23 @@
 - **Rol:** Espías que la Casa Shen (y otras) tenían metidos como sirvientes en la Casa Bao.
 - **Estado:** **Perdida.** La casa se reorganizó y la gente de adentro se volvió leal; ya no venden chismes. Solo quedan "oídas".
 
+
+## El torneo imperial (matriz de ilusión)
+> El examen de verdad del imperio: a cada joven se le asigna **un pueblo** y un equipo de **treinta plazas** (ver `mundo.md §10`).
+
+### El maestro de ceremonias imperial
+- **Rol:** Anuncia reglas, emparejamientos y resultados. La voz de la institución.
+- **Notas de comedia:** Habla en frases cortas y sentenciosas; no se inmuta con nada.
+
+### Los jueces de la matriz
+- **Rol:** Observan la proyección y puntúan (sobrevive · costo · tiempo · secuelas · confianza · método).
+- **Notas:** No saben cómo calificar a los Bao ("no está en la tabla"); reevalúan lo que no entienden.
+
+### Rivales por casa (en la matriz)
+- **Casa Feng** (capital): eligen **30 soldados**; construyen de prisa; su obra se cae.
+- **Casa Zhao** (frontera): resuelven a golpes; el pueblo los teme antes de quererlos.
+- **Casa Mu** (montañas): métodos raros que nadie entiende.
+- **Casa Lin** (islas del este): compran al pueblo; el pueblo les cobra caro después.
 
 ## Sirvientes y comparsas
 

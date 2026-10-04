@@ -1,159 +1,345 @@
 <!--
 ========================================================
-PLANEACIÓN — CAPÍTULO 110: "La prueba de técnica"
+PLANEACIÓN — CAPÍTULO 110: "El río (II)"
 ========================================================
 ARCO "TORNEO IMPERIAL" — SUB-ARCO 3 — 4/15.
 OBJETIVO:
-- Bao An muestra TODO el ARSENAL del boxeo:
-  GOLPES (jab, cruzado, gancho, uppercut, recto, codo),
-  DEFENSAS (cabeceo, esquivas, bloqueo, contragolpe) y
-  el JUEGO DE PIES (círculos, cortar ángulos, entrar/salir).
-- Los jueces NO saben cómo calificarlo (la tabla no tiene casillas); el juez viejo: "¿y por qué se movía tanto?"
-- Bao An explica que esquivar también es técnica; los jueces anotan "Técnica no catalogada. Pendiente de revisión imperial."
+- La obra: los treinta y el pueblo cavan la "puerta de agua". El pueblo se gana con comida (los cocineros), no con discursos.
+- El viejo Cen dirige; Bao An pregunta (gobernar = saber preguntar).
+- La crecida: el agua pasa por donde Bao An dijo, no por el pueblo. Pero se lleva el molino y los campos.
+- Contraste: el dique del Feng revienta; el Zhao ahoga a un aldeano; el muro del 4º desvía el río a OTRO pueblo; el 1º, perfecto.
+- Pei: diques reforzados, cero pérdidas. Marcador visible: empate técnico.
 
-RECURSOS: la IA; MODO MACHO.
+RECURSOS: la IA; MODO MACHO; proyecciones (▌).
 
 GANCHO:
-- La prueba de ingenio: Bao An brilla (cap. 111).
+- El marcador oculto (cap. 111).
 ========================================================
 -->
 
-# Capítulo 110 — La prueba de técnica
+# Capítulo 110 — El río (II)
 
-Y ahí, en la prueba de técnica, pasó lo que tenía que pasar.
-
-Mostré todo.
+Y el trabajo empezó.
 
 ---
 
-Porque primero pasaron los demás.
+Con palas. Y con barro. Y con manos.
 
-El mayor: un movimiento de metal. Duro. Limpio. Bien puntuado.
+Porque yo no tenía soldados. Ni máquinas.
 
-La tercera: su agua. Y su madera. Y el público, embobado.
+Tenía treinta hombres.
 
-El cuarto: un rayo. Chiquito. Y el juez, pálido.
-
-El sexto: un golpe. Fuerte. Directo. Puntuado alto.
-
-El quinto: una finta que nadie vio venir. Ni el rival del quinto.
-
-Y el segundo: un polvo. (El juez, otra vez, leyendo las reglas.)
+Y un pueblo que no me creía.
 
 ```
 [ IA-BETA v0.9.7 ]
-> Nota: cada Bao tiene su técnica. Y todas están en los manuales.
-> Todas menos... una.
+> Inventario real: 4 albañiles, 2 médicos, 2 cocineros, 2 escribanos, 1 herrero, 1 carpintero, 2 arrieros y el resto.
+> Cero soldados. Cero magia. Cero manual.
+> Con eso hay que salvar un pueblo. Pásenme el instructivo.
 ```
 
 ---
 
-Y luego me tocó a mí.
+Y el primer día, el pueblo no ayudó.
 
-Y ahí, por primera vez, mostré todo.
+Nos vieron cavar.
 
-No el jab.
+Desde lejos.
 
-**Todo.**
-
-Un **jab**. Un **cruzado**. Un **gancho**. Un **uppercut**. Un **recto**. Un **codo**.
-
-Un golpe tras otro. Encadenados. Como una canción.
-
-Y las defensas: **cabeceo**. **Esquivas**. **Bloqueo**. **Contragolpe**.
-
-Y el **juego de pies**: en círculos. Cortando ángulos. Entrando. Saliendo. Brincando.
-
-Como boxeador.
-
-Como boxeador de mi mundo.
+Como se ve a los locos.
 
 ```
-[ IA-BETA v0.9.7 ]
-> Análisis: ha ejecutado el repertorio completo del boxeo.
-> Golpes: 6. Defensas: 4. Y juego de pies.
-> Los jueces llevan el lápiz levantado. No saben dónde ponerlo.
-```
-
----
-
-Y ahí se acabó el torneo de los jueces.
-
-Porque no tenían casilla para nada.
-
-—¿Eso qué fue? —dijo uno.
-
-—Un jab.
-
-—El jab ya lo teníamos.
-
-—Y un cruzado.
-
-—No está en la tabla.
-
-—Y un gancho.
-
-—Tampoco.
-
-—Y un uppercut...
-
-—¡Nada de eso está en la tabla!
-
-Y el tercer juez, el más viejo, dijo la frase del día:
-
-—¿Y por qué se movía tanto?
-
-```
-[ Cantinflómetro: n/a — esta vez no hubo cantinfleo. Solo boxeo. ]
-> Corrección: peleó. Feo. Pero completo.
 [ MODO MACHO: ACTIVADO ]
-> ¡Uuuh, patrón! ¡Les mostró toooodo el repertorio!
-> ¡Y ellos ahí, con su tablita, sin saber ni dónde apuntar!
-> ¡Como llevar tacos a un banquete!
+> Compa, no se agüite. La gente no ayuda por ideas. Ayuda por hambre.
+> ¡Y usted trae dos cocineros!
+```
+
+*Ah.*
+
+*Cierto.*
+
+---
+
+Y mis cocineros hicieron lo suyo.
+
+Cocinaron.
+
+Y el olor se fue por el pueblo.
+
+Y el pueblo... empezó a llegar.
+
+No a ayudarme.
+
+A oler.
+
+Y ya ahí, con la panza tibia, alguien agarró una pala.
+
+Y luego otro.
+
+Y luego otro.
+
+Y al tercer día, el pueblo entero cavaba.
+
+```
+[ IA-BETA v0.9.7 ]
+> Reporte: la obra avanza.
+> Motivo del cambio: no fue el plan. Fue la comida.
+> Anotación para el imperio: si quieren mover un pueblo, primero denle de comer.
 ```
 
 ---
 
-Y para acabarla, expliqué.
+Y el viejo Cen se sentó a ver.
 
-—Es que esquivar también es técnica.
+Con su bastón.
 
-—¿Cómo? —dijo el juez.
+Sin ayudar.
 
-—Si me pegan, pierdo. Si no me pegan, sigo. Entonces no dejarse pegar es tan importante como pegar.
+Pero sin irse.
 
-—...
+Y cada tanto decía una cosa.
 
-—Y el juego de pies es para eso. Para no estar donde te pegan.
+—Ahí no. Ahí el agua se atora.
 
-Silencio.
+Y yo le hacía caso.
 
-Y los jueces anotaron.
+Porque el viejo sabía del río.
 
-Al pie de la letra.
-
-Sin entender.
+Y yo... yo solo sabía preguntar.
 
 ```
 [ IA-BETA v0.9.7 ]
-> Anotación final: "Técnica no catalogada. Movimiento sin forma. Pendiente de revisión imperial."
-> ...O sea: no supieron qué era. Y como no supieron, lo mandaron a revisar arriba.
-> Y "arriba" es donde estaban mirando.
+> Nota: usted no es el que sabe del río. El que sabe es el viejo.
+> Usted es el que sabe preguntarle al viejo.
+> Y eso, aunque no lo parezca, es gobernar.
+```
+
+---
+
+Y los días pasaron.
+
+Y la puerta de agua se fue abriendo.
+
+Piedra a piedra.
+
+Y los escribanos anotaban todo.
+
+Y los médicos curaban las ampollas.
+
+Y los albañiles enseñaban a los aldeanos.
+
+Y nadie murió.
+
+Y nadie gritó.
+
+Y nadie me llamó "amo".
+
+Me llamaban por mi nombre.
+
+```
+[ MODO MACHO: ACTIVADO ]
+> Compa... ¿se dio cuenta?
+> Ya no le dicen "joven amo".
+> ¡Le dicen "Bao"! ¡Como a un vecino!
+> ¡Y eso, para un pueblo, es más que un título!
 ```
 
 *Ay no.*
 
-*Otra vez llamé la atención de los de arriba.*
+*No me lo digas.*
+
+*Que me pongo sentimental.*
+
+---
+
+Y a los veinte días...
+
+la lluvia se puso seria.
+
+En serio seria.
+
+Y el río... subió.
+
+Y subió.
+
+Y subió.
+
+Y el pueblo se calló.
+
+Y todos voltearon a ver el agua.
+
+Y el agua... buscó su puerta.
+
+*Por favor.*
+
+*Por favor.*
+
+*Que funcione.*
+
+```
+[ IA-BETA v0.9.7 ]
+> Momento crítico.
+> Si el agua entra por donde usted dijo, ganamos.
+> Y si no... ni el molino le va a alcanzar para pagar el desastre.
+```
+
+---
+
+Y el agua llegó.
+
+---
+
+Como una pared.
+
+Por el lado donde le habíamos dicho.
+
+Y pasó.
+
+Junto al pueblo. No por dentro.
+
+Por la puerta.
+
+Y se fue a los campos del viejo Cen.
+
+Y los campos se llenaron.
+
+Y el pueblo... se quedó seco.
+
+Silencio.
+
+Y luego, el ruido.
+
+Gritos. De los míos. Del pueblo.
+
+Pero gritos buenos.
+
+Gritos de "¡no entró!".
+
+```
+[ MODO MACHO: ACTIVADO ]
+> ¡NO ENTRÓ, COMPA! ¡NO ENTRÓ!
+> ¡Y el pueblo ahí, brincando, y usted con la cara de "yo sabía"!
+> ¡No sabe nada! ¡Ni usted se lo creía!
+```
+
+*No.*
+
+*No me lo creía.*
+
+*De verdad.*
+
+---
+
+Y el viejo Cen...
+
+el viejo Cen vio su molino.
+
+El agua se lo llevó.
+
+Y no dijo nada.
+
+Y yo me senté a su lado.
+
+Y le dije:
+
+—Le voy a hacer otro. Más grande.
+
+Y el viejo me miró.
+
+—Ya sé —dijo—. Pero ese era el mío.
+
+Silencio.
+
+```
+[ IA-BETA v0.9.7 ]
+> Anotación: el pueblo se salvó. El viejo, no.
+> Perdimos un molino que no era nuestro para salvar a gente que sí lo era.
+> ...¿Eso cuenta como costo, o como crueldad? Depende de quién pregunte.
+```
+
+*Ay no.*
+
+*Ay no, viejo.*
+
+---
+
+Y mientras el pueblo celebraba, los jueces miraban las otras matrices.
+
+**▌ PROYECCIÓN — FIN DE LA CRECIDA**
+*Un juez de la matriz.*
+· Casa Feng: el dique aguantó... hasta la tercera noche. Luego se rompió. El pueblo, inundado.
+· Casa Zhao: el dique no aguantó. Un aldeano que quiso salir, "ahogado". Se anota.
+· Casa Bao (4º): el muro aguantó. A martillazos de rayo. Costo: el agua desviada se llevó OTRO pueblo, el de al lado. Se anota.
+· Casa Bao (1º): canales. De manual. Perfectos. El pueblo, seco. Sin una queja. Ejemplar.
+· Casa Bao (5º): reparto de trabajo tan parejo que el pueblo ni sintió la crecida. El mejor tiempo de todos.
+· Casa Bao (7º): el pueblo, seco. Los campos, inundados. El molino, perdido.
+· Pregunta del día: ¿vale la pena un molino?
+
+```
+[ IA-BETA v0.9.7 ]
+> Nota: los jueces saben el "qué". No saben el "cuánto".
+> Porque puntuar un pueblo seco es fácil.
+> Puntuar un molino perdido... no está en ninguna tabla.
+```
+
+---
+
+Y en su matriz, la Pei también ganó.
+
+Ganó bonito.
+
+Diques reforzados. Casas realzadas. Cero pérdidas.
+
+Ni un llanto. Ni un susto.
+
+Gobernanza de manual.
+
+```
+[ IA-BETA v0.9.7 ]
+> Matriz hermana (Pei): pueblo seco, cero costos, cero drama.
+> Si el examen midiera lo que dice que mide... ya perdió usted.
+```
+
+---
+
+Y esa noche, al salir de la matriz, nos vimos.
+
+Pei y yo.
+
+En el pasillo.
+
+Los dos con la ropa hecha un desastre.
+
+Ella, limpia y ordenada. (Porque ella es así.)
+
+Y yo, lleno de lodo.
+
+Y nos quedamos viendo.
+
+```
+[ IA-BETA v0.9.7 ]
+> Tensión: alta.
+> Marcador visible: empate técnico. Los dos salvaron el pueblo.
+> Marcador oculto: ...ese todavía no lo vemos.
+[ MODO MACHO: ACTIVADO ]
+> Compa. Se viene la parte que nadie ve.
+> ¡Y ahí es donde el Macho trabaja!
+```
+
+*Ay no.*
+
+*La parte que nadie ve.*
 
 <!--
 ========================================================
 GANCHO (fin del Capítulo 110)
 ========================================================
-- Bao An mostró TODO el arsenal del boxeo (golpes, defensas, juego de pies).
-- Los jueces no tienen casillas: "¿y por qué se movía tanto?".
-- Su técnica quedó "pendiente de revisión imperial".
+- La crecida pasa por la "puerta": el pueblo se seca; el molino y los campos del viejo Cen, perdidos.
+- Otras matrices: el dique del Feng revienta; el Zhao ahoga a un aldeano; el muro del 4º desvía el río a OTRO pueblo; el 1º y el 5º, impecables.
+- Los jueces saben el "qué", no el "cuánto": no hay tabla para puntuar un molino perdido.
+- Pei: gobernanza de manual, cero pérdidas. Marcador visible: empate técnico. Falta el marcador OCULTO.
 
 PLANEACIÓN — CAPÍTULO 111 (propuesta):
-- La prueba de ingenio: Bao An brilla de verdad (primer lugar) (cap. 111).
+- El duelo: se revela el marcador oculto; Bao An vs. Pei cara a cara; "eres imposible... y por eso me caes bien" (cap. 111).
 ========================================================
 -->

@@ -1,119 +1,304 @@
 <!--
 ========================================================
-PLANEACIÓN — CAPÍTULO 113: "Trampas legales (I)"
+PLANEACIÓN — CAPÍTULO 113: "El primero"
 ========================================================
 ARCO "TORNEO IMPERIAL" — SUB-ARCO 3 — 7/15.
 OBJETIVO:
-- ★ El Macho a tope: las reglas escritas tienen HUECOS; "trampa legal es entender las reglas mejor que el juez".
-- Los siete explotan huecos (el 2º con somnífero, el 4º con "golpe" sin tamaño, Bao An con palabras).
-- Cada hermano encuentra su hueco (el mayor pide ayuda; la 3ª negocia; el 5º convence).
+- ★ EL PRIMERO (Cheng) BRILLA DE MANERA EJEMPLAR.
+- Su pueblo: un funcionario corrupto que roba grano con el sello; el pueblo, hambriento y sin confianza.
+- Método de Cheng: no improvisa. Verifica. Cuenta. Compara. Y luego actúa DENTRO de las reglas: lleva al ladrón ante el pueblo, con pruebas, y que el pueblo lo juzgue. Limpio.
+- Devuelve el grano. No se queda con nada. Reconstruye la confianza.
+- Los jueces lo declaran EL EJEMPLO: no el más brillante, el más confiable.
+- Bao An lo respeta sin ironía (el único).
 
-RECURSOS: MODO MACHO; IA; Cantinflómetro.
+RECURSOS: la IA; MODO MACHO; acta (▌).
 
 GANCHO:
-- Más trampas legales; las casas sospechan (cap. 114).
+- El cuarto (cap. 114) y su problema.
 ========================================================
 -->
 
-# Capítulo 113 — Trampas legales (I)
+# Capítulo 113 — El primero
 
-Y ahí fue donde el Macho se soltó.
-
-De verdad.
+Y al primero le tocó un pueblo con un ladrón.
 
 ---
 
-Porque, con las pruebas, llegó la parte que el Macho adoraba.
+Aunque no uno cualquiera.
 
-Las **reglas**.
+Uno que no robaba con las manos.
 
-Un montón de reglas. Escritas. Chiquitas. Leíbles.
+Uno que robaba con el **sello**.
 
-Y el Macho, que era un abogado de cantina, se puso como niño con juguete nuevo.
+Un funcionario.
 
-```
-[ MODO MACHO: ACTIVADO ]
-> ¡Uuuh, patrón! ¡Reglas! ¡REGLAS escritas!
-> ¿Sabe qué significa eso? ¡Que hay huecos!
-> ¡Y donde hay huecos cabe un abogado!
-> ¡Trampa legal, compa! ¡Trampa legal!
-```
-
-*Macho. Eso es hacer trampa.*
-
-```
-> ¡NO! ¡Eso es ENTENDER!
-> Trampa legal es lo que hace el que entiende las reglas mejor que el juez.
-> ¡Y el juez las escribió apurado! ¡Usted namás las lee bien!
-```
-
-*...*
-
-*Eso es... engañoso.*
-
-```
-> ¡Eso es GANAR, compa! ¡Que no es lo mismo que perder limpiamente!
-```
-
----
-
-Y así, con la bendición del Macho, empezamos a leer las reglas.
-
-Y a encontrar huecos.
-
-Muchos.
-
-Porque las reglas del torneo estaban escritas para **guerreros**.
-
-Y nosotros no éramos guerreros.
-
-Éramos... otra cosa.
+El que repartía el grano... y se quedaba con la mitad.
 
 ```
 [ IA-BETA v0.9.7 ]
-> Nota: las reglas dicen "no usar veneno". No dicen "no usar somnífero". El segundo ya lo explotó.
-> Las reglas dicen "un golpe". No dicen "de qué tamaño". El cuarto ya lo explotó.
-> Las reglas dicen "un movimiento por turno". No dicen "sin palabras". Usted ya lo explotó.
+> Diagnóstico del pueblo del primero:
+> · Grano: la mitad del que debería.
+> · Ladrón: el que lo reparte. O sea, el único que puede contar.
+> · Pueblo: con hambre, y con miedo de decir nada.
+> · Y con una regla: "no se toca a un funcionario sin pruebas".
+> ...Bonito problema. El ladrón es el que lleva las cuentas.
 ```
 
 *Ay no.*
 
-*Hasta la IA ya sabe.*
+*Ese roba y luego anota.*
 
 ---
 
-Y cada hermano encontró su hueco.
+Y el primero...
 
-El mayor: "no dice que no puedo pedir ayuda". Y organizó a los cinco.
+el primero hizo lo que hace el primero.
 
-La tercera: "no dice que no puedo negociar". Y negoció en el ruedo.
+No improvisó.
 
-El quinto: "no dice que no puedo... convencer". Y convenció.
+No gritó.
 
-Y yo... yo ya ni contaba las mías.
+No señaló a nadie.
+
+**Verificó.**
+
+```
+[ IA-BETA v0.9.7 ]
+> Otros empiezan acusando. El primero empieza comprobando.
+> Y comprobar, cuando el que miente es el que cuenta... es difícil.
+```
+
+---
+
+Y ahí el primero enseñó lo que sabía.
+
+Porque el primero no era el más listo.
+
+Ni el más rápido.
+
+Pero sabía una cosa que casi nadie: **sacar la verdad de los números**.
+
+Pidió las cuentas del pueblo.
+
+Las del año. Las del anterior. Las del otro.
+
+Y las puso en fila.
+
+Y sumó.
+
+Y restó.
+
+Y comparó.
 
 ```
 [ MODO MACHO: ACTIVADO ]
-> ¡Aaaaah! ¡Los Bao salieron abogados!
-> ¡Y de la mejor escuela: la mía!
-> ¡Mis hijitos! ¡Mis hijos legales!
+> Compa, mire al mayor. Ahí va.
+> Sin gritos. Sin pleito. Nomás con papeles.
+> ¡Y el funcionario ya empezó a sudar! ¡Mire cómo suda!
 ```
 
-*Macho. No adoptes a nadie.*
+---
+
+Y el truco era viejo.
+
+Pero el funcionario no lo sabía.
+
+Porque le dijo que trajera las cuentas del grano del pueblo de al lado.
+
+Y el funcionario las trajo.
+
+Y en esas cuentas... había una mano.
+
+Una mano que no debía estar.
+
+La suya.
 
 ```
-> Es que me enorgullecen.
+[ IA-BETA v0.9.7 ]
+> Encontrado. El funcionario robaba y lo anotaba en el libro de OTRO pueblo.
+> Traducción: el ladrón usaba el libro del vecino como su escondite.
+> Y el mayor lo halló. Solo. Con paciencia.
 ```
+
+---
+
+Y luego, lo importante.
+
+Que no fue encontrar al ladrón.
+
+Fue lo que el primero hizo después.
+
+No lo mató.
+
+No lo encarceló en secreto.
+
+No lo mandó a la capital.
+
+Lo llevó a la plaza.
+
+Con el libro. Con las cuentas. Con las pruebas.
+
+Y llamó al pueblo.
+
+Y dijo:
+
+—Este es su funcionario. Y este es su grano. Juzguen ustedes.
+
+Silencio.
+
+```
+[ IA-BETA v0.9.7 ]
+> Nota importante: el primero NO se quedó con el papel de juez.
+> Le devolvió el juicio al pueblo.
+> ...Eso, en un imperio, no se hace. Y por eso vale doble.
+```
+
+---
+
+Y el pueblo juzgó.
+
+Y el funcionario... bueno, el funcionario tuvo un final que no hace falta contar.
+
+Y el grano volvió a las casas.
+
+Y el primero no se quedó con un solo grano.
+
+Ni con un solo título.
+
+Ni con un solo favor.
+
+```
+[ MODO MACHO: ACTIVADO ]
+> Compa. Ahí está la diferencia.
+> El quinto hizo magia. Usted hizo trampa bonita.
+> Y el mayor... el mayor nomás hizo lo correcto.
+> Y lo correcto, a la larga, es lo más raro de todo.
+```
+
+*Ay no.*
+
+*El mayor.*
+
+*El mayor es el bueno.*
+
+---
+
+Y cuando se corrió el pueblo del primero a diez años...
+
+pasó lo que tenía que pasar.
+
+Nada.
+
+Diez años sin sobresaltos.
+
+Con grano. Con confianza. Con un pueblo que ya no le temía a su sello.
+
+```
+[ IA-BETA v0.9.7 ]
+> Resultado del primero a diez años:
+> · Grano: completo, año tras año.
+> · Confianza: alta y estable.
+> · Crisis: cero. Ni una.
+> · Motivo: el mayor no arregló el pueblo. Lo dejó bien hecho.
+> ...Y "bien hecho" aguanta más que "brillante".
+```
+
+---
+
+Y los jueces... los jueces hicieron algo raro con el primero.
+
+No lo aplaudieron.
+
+Lo **anotaron**.
+
+Como se anota un ejemplo.
+
+**▌ ACTA DEL JURADO**
+*El juez principal.*
+· Casa Bao, primer hijo: puntaje alto. No el más alto.
+· Pero —y aquí está lo importante— es el único que no dejó nada colgando.
+· Ningún aldeano perdido. Ningún vecino inundado. Ningún molino pagado por otro.
+· Observación: si tuviéramos que poner a alguien a cargo de un pueblo de verdad, mañana, con el imperio mirando... pondríamos a este.
+· Recomendación: **que sirva de modelo**. De este se aprende.
+
+```
+[ IA-BETA v0.9.7 ]
+> "De este se aprende." Los jueces acaban de convertir al mayor en el ejemplo del torneo.
+> No el genio. El modelo.
+> Y eso, para un heredero, vale más que ganar.
+```
+
+---
+
+Y ahí entendí una cosa.
+
+Que todos veníamos a brillar.
+
+A hacer la jugada rara. A la magia. Al aplauso.
+
+Y que el mayor...
+
+el mayor venía a otra cosa.
+
+A que las cosas funcionaran.
+
+Y a que siguieran funcionando cuando nadie estuviera viendo.
+
+```
+[ MODO MACHO: ACTIVADO ]
+> Compa. Al mayor nunca lo van a aplaudir como a usted.
+> Porque el mayor no hace trucos.
+> Pero fíjese: cuando el pueblo se caiga de verdad, ¿a quién van a buscar?
+> ...Al mayor. Siempre al mayor.
+```
+
+*Anoté.*
+
+*Al mayor lo respeto.*
+
+*Sin ironía.*
+
+*Casi.*
+
+---
+
+Y esa noche, en la delegación, el mayor no celebró.
+
+Porque el mayor no celebra.
+
+Nomás se sentó, con su sopa, y preguntó por el cuarto.
+
+—¿Y el cuarto? —dijo—. ¿Cómo le fue?
+
+Y nadie contestó.
+
+Porque al cuarto le había ido mal.
+
+Muy mal.
+
+Y el cuarto... el cuarto no había llegado a cenar.
+
+```
+[ IA-BETA v0.9.7 ]
+> Alerta: el cuarto sigue dentro de la matriz.
+> Lleva seis horas. Se le acabó el tiempo hace dos.
+> Y se niega a salir.
+```
+
+*Ay no.*
+
+*Cuarto.*
 
 <!--
 ========================================================
 GANCHO (fin del Capítulo 113)
 ========================================================
-- El Macho a tope: "trampa legal es entender las reglas mejor que el juez".
-- Los siete explotan huecos legales; cada hermano encuentra el suyo.
-- La IA: "hasta yo ya sé".
+- El primero a diez años: cero crisis. Los jueces lo anotan como EL MODELO ("de este se aprende").
+- Insight: el mayor no brilla; hace que las cosas funcionen (y sigan funcionando).
+- Bao An lo respeta sin ironía. "Casi."
+- Hook: al cuarto le fue mal y se niega a salir de la matriz.
 
 PLANEACIÓN — CAPÍTULO 114 (propuesta):
-- Más trampas legales; las casas sospechan (pero no pueden reclamar) (cap. 114).
+- El cuarto (Shan): le cuesta la prueba y NO la pasa; su pueblo se cae (cap. 114).
 ========================================================
 -->

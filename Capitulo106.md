@@ -98,7 +98,7 @@ Pei.
 [ IA-BETA v0.9.7 ]
 > Alerta: su siguiente rival es Pei Ruolan.
 > La muchacha que le gusta. La que le trae libros.
-> Y el maestro no dijo en qué se compite. Dijo dos palabras: "reglas nuevas".
+> Y el maestro no dijo en qué se compite. Dijo dos palabras: "un pueblo".
 > Preparación recomendada: ninguna. No hay manual para esto.
 ```
 
@@ -118,6 +118,6 @@ GANCHO (fin del Capítulo 106) — CIERRE DEL SUB-ARCO 2 "LOS COMBATES"
 
 PLANEACIÓN — CAPÍTULO 107 (SUB-ARCO 3 "LAS PRUEBAS"):
 - CONTINUIDAD: se paga la semilla del 106 ("reglas nuevas") → la etapa es de PRUEBAS (combates pausados).
-- Bao An vs. Pei en la prueba de técnica; la intriga de inteligencia se profundiza (cap. 107).
+- Bao An vs. Pei en la misma matriz (duelo de ingenio); la intriga se profundiza (cap. 107).
 ========================================================
 -->

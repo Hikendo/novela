@@ -1,154 +1,307 @@
 <!--
 ========================================================
-PLANEACIÓN — CAPÍTULO 111: "La prueba de ingenio"
+PLANEACIÓN — CAPÍTULO 111: "El duelo"
 ========================================================
 ARCO "TORNEO IMPERIAL" — SUB-ARCO 3 — 5/15.
 OBJETIVO:
-- La prueba de ingenio: "Un río se desborda... ¿qué haces?".
-- Bao An responde con INGENIERÍA (darle espacio al río, mover las casas, no apretarlo).
-- Sin cantinfleo: en lo suyo, Bao An gana de verdad → PRIMER LUGAR en ingenio.
+- Se publican los resultados: los Feng, inundados; el Zhao, peor; el 4º salvó su pueblo y hundió el vecino (nadie lo pone en el muro); el 1º, perfecto; el 5º, el mejor tiempo.
+- Bao An vs. Pei: EMPATE visible (los dos salvaron el pueblo).
+- ★ EL MARCADOR OCULTO: la matriz se corre OTRA VEZ, diez años. No premian el que tapa el hoyo, sino el que hace que el hoyo no vuelva.
+- Pei gana "este año"; Bao An gana "los otros nueve". Motivo: el dique se gasta; la puerta, no.
+- Pei no estalla: aprende. "Eres imposible... y por eso me caes bien."
+- Hook: la ronda 2 (y el quinto).
 
 RECURSOS: la IA; MODO MACHO.
 
 GANCHO:
-- El duelo de estrategia (cap. 112).
+- El quinto (cap. 112).
 ========================================================
 -->
 
-# Capítulo 111 — La prueba de ingenio
+# Capítulo 111 — El duelo
 
-Y llegó mi momento.
-
-El bueno.
+Y al día siguiente publicaron los resultados.
 
 ---
 
-Porque la prueba de ingenio era la mía.
+En un muro. Con letras grandes.
 
-No la de pelear. No la de medir.
+Como se publican las cosas importantes.
 
-La de **resolver**.
+Y como se publican las cosas que a alguien le convienen.
 
-Y ahí sí, ahí yo jugaba en casa.
+```
+[ IA-BETA v0.9.7 ]
+> Análisis del muro: es un boletín. Y un boletín siempre tiene dueño.
+```
+
+---
+
+Y los resultados eran los resultados.
+
+La Casa Feng: el pueblo, inundado. (Su dique no aguantó.)
+
+La Casa Zhao: el pueblo, inundado. Y un aldeano de menos.
+
+El cuarto: el pueblo, salvado. El pueblo vecino, hundido. (Nadie puso eso en el muro.)
+
+El primero: el pueblo, seco. Cero quejas. Cien puntos.
+
+El quinto: el pueblo, seco. Y el mejor tiempo de todos.
+
+Y luego...
+
+nuestro emparejamiento.
+
+Pei. Y yo.
+
+Y en el muro decía una sola palabra.
+
+**Empate.**
+
+```
+[ IA-BETA v0.9.7 ]
+> Marcador visible: empate.
+> Los dos: pueblo seco. Los dos: dentro del tiempo.
+> Y por la cara del público, el empate les pareció justo.
+> ...A mí también me lo pareció.
+```
+
+---
+
+Y el público, que venía a ver ganadores, no supo qué hacer con un empate.
+
+Porque un empate no es una historia.
+
+Un empate es un "esperemos a ver".
+
+Y yo, la verdad, respiré.
+
+*Empate.*
+
+*Pudo ser peor.*
 
 ```
 [ MODO MACHO: ACTIVADO ]
-> Compa, llegó el examen de su vida.
-> La prueba de saber qué hacer cuando no hay manual.
-> ...¿Y sabe qué? Usted ES el manual que no hay.
+> Compa, no cante victoria.
+> Empate con la Pei es como empatar con la suegra.
+> ¡Nunca es empate! ¡Ella nomás se está esperando!
+```
+
+*Ay no.*
+
+---
+
+Y ahí, cuando ya todos se iban...
+
+el juez principal levantó la mano.
+
+Y dijo tres palabras.
+
+—Falta un puntaje.
+
+Silencio.
+
+Y el público volvió a sentarse.
+
+```
+[ IA-BETA v0.9.7 ]
+> Alerta: acaba de aparecer el marcador oculto.
+> El que no se dice. El que vale.
 ```
 
 ---
 
-Y el problema era este.
-
-*"Un río se desborda. Cada año. Y cada año se lleva casas. Tienes gente, piedras, palas y un mes. ¿Qué haces?"*
-
-Y todos empezaron a responder cosas de fuerza.
-
-*"Más piedras."*
-
-*"Más gente."*
-
-*"Muro más alto."*
-
-Y a mí me dio risa.
-
-Otra vez.
-
----
-
-—No —dije.
-
-—¿Cómo que no?
-
-—No hay que parar el río. Hay que dejar que se desborde donde no haya casas.
+—La matriz —dijo el juez— se puede correr otra vez.
 
 Silencio.
 
-—...¿Cómo?
+—Y otra. Y otra.
 
-—Se mueven las casas. Y se le deja un lugar al río. Un cauce ancho, del otro lado. El río no se detiene: se le da espacio.
+—¿Y eso qué? —dijo alguien.
+
+—Que el examen no mide un año —dijo el juez—. Mide los que vienen.
+
+Y ahí se hizo el silencio de verdad.
+
+```
+[ IA-BETA v0.9.7 ]
+> Traducción: no premian al que tapa el hoyo.
+> Premian al que hace que el hoyo no vuelva.
+> ...Y el hoyo de los demás vuelve. Siempre vuelve.
+```
+
+---
+
+Y explicaron.
+
+Que a cada pueblo lo iban a correr... diez años.
+
+Los diez siguientes.
+
+Para ver quién aguantaba.
+
+Y ahí todo cambió.
+
+Porque la Pei salvó ESTE año.
+
+Con diques. Con altura. Con orden.
+
+Pero el río seguía apretado.
+
+Y el año que viene...
+
+y el otro...
+
+y el otro...
+
+el río iba a volver.
+
+```
+[ IA-BETA v0.9.7 ]
+> Pei: los diques aguantan. Pero el río sigue apretado.
+> Un río apretado no se rinde. Espera.
+> ...Espera a que bajes la guardia.
+```
+
+---
+
+Y yo...
+
+yo no había hecho un dique.
+
+Yo le había dado al río una puerta.
+
+Una salida.
+
+Para siempre.
+
+```
+[ IA-BETA v0.9.7 ]
+> Resultado a diez años:
+> · Pei: año 1, seco. Año 3, seco. Año 6, el dique cede. Año 8, crecida. Año 10, crecida.
+> · Bao An: año 1, seco. Año 3, seco. Año 6, seco. Año 8, seco. Año 10, seco.
+> · Motivo: la puerta no se gasta. El dique sí.
+> ...Compa. Ganó los diez.
+```
+
+*Ay no.*
+
+*Gané.*
+
+*Gané por los años que no se ven.*
+
+---
+
+Y la Pei leyó el puntaje.
+
+Y se quedó quieta.
+
+Y luego... me buscó con la mirada.
+
+Y vino hacia mí.
+
+Y yo pensé lo peor.
+
+```
+[ MODO MACHO: ACTIVADO ]
+> Compa, ahí viene. Y viene con la cara de "te voy a decir de todo".
+> ¡Párese firme! ¡Y no cantinflee! ¡Aquí no le sirve!
+```
+
+---
+
+—Bao An.
+
+—...Pei.
+
+—Ganaste.
+
+—Empatamos.
+
+—No —dijo—. Empatamos hoy. Ganaste los otros nueve.
+
+Silencio.
+
+Y luego... se rió.
+
+No una risa de burla.
+
+Una risa de... cansancio.
+
+La misma de siempre.
+
+—Eres imposible —dijo.
+
+—Eso dicen.
+
+—Le di al río todo lo que un gobernante debe darle.
+
+—Ya sé.
+
+—Y me faltó lo único.
+
+—¿Qué?
+
+—Darle lo que un río necesita.
 
 Silencio largo.
 
-```
-[ IA-BETA v0.9.7 ]
-> Traducción del juez: "no entiendo, pero me gusta".
-> Traducción mía: es una solución de ingeniería.
-> Lo que el río no perdona es que lo aprieten. Y le apretaban todos.
-```
+Y me miró.
 
----
+Y dijo la frase.
 
-Y el juez principal... me hizo otra pregunta.
-
-Y otra.
-
-Y otra.
-
-Como quien prueba a alguien y no termina de creer.
-
-Y yo contesté.
-
-Una tras otra.
-
-Sin cantinflear.
-
-Porque estaba en mi casa.
-
-En lo mío.
+—Eres imposible... y por eso me caes bien.
 
 ```
 [ IA-BETA v0.9.7 ]
-> Nota: aquí no hubo cantinfleo. Aquí hubo ingeniería.
-> Y un juez tomando notas con las dos manos.
+> Nota: no perdió ella. Aprendió.
+> Y a usted le acaba de pasar lo mismo que en el pasillo del pueblo.
+> No le resolvió nada. Pero se le quedó.
 ```
+
+*Ay no.*
+
+*A la Pei... a la Pei es aparte.*
 
 ---
 
-Y cuando terminé...
+Y esa noche, el maestro de ceremonias anunció la siguiente matriz.
 
-el juez se levantó.
+Otro pueblo. Otro problema.
 
-Y dijo, en voz alta:
+Y ahora, sí, los jueces iban a mirar los diez años.
 
-—Casa Bao, séptimo hijo. **Primer lugar** en ingenio.
-
-Silencio.
-
-Y luego, aplausos.
-
-Muchos.
-
-De verdad.
+Desde el principio.
 
 ```
+[ IA-BETA v0.9.7 ]
+> Ronda 2. Ahora todos saben que hay que mirar más lejos que el agua.
+> Va a ser más difícil.
 [ MODO MACHO: ACTIVADO ]
-> ¡UHHH! ¡PRIMER LUGAR, COMPA!
-> ¡Sin cantinflear! ¡Con la cabeza!
-> ¡Mírese nomás! ¡El niño de los Bao que SABE!
+> Compa, pero no se preocupe.
+> Mire cómo viene el quinto.
+> Ese sí le va a enseñar a gobernar.
 ```
 
-*Anoté.*
+*¿El quinto?*
 
-*Gané algo de verdad.*
+*...Ah, sí.*
 
-*Y no lo gané con la boca.*
+*El quinto es el de las cosas bien hechas.*
 
-*Lo gané con... la escuela.*
-
-*Con la pregunta "por qué".*
+*El quinto va a arrasar.*
 
 <!--
 ========================================================
 GANCHO (fin del Capítulo 111)
 ========================================================
-- Prueba de ingenio: Bao An resuelve con ingeniería (darle espacio al río).
-- Sin cantinfleo: gana de verdad → PRIMER LUGAR en ingenio.
-- "No lo gané con la boca; lo gané con la pregunta 'por qué'."
+- ★ El marcador OCULTO: la matriz corre diez años. No premia al que tapa el hoyo, sino al que evita que vuelva.
+- Pei gana "este año"; Bao An gana "los otros nueve" (el dique se gasta; la puerta, no).
+- Pei no estalla: aprende. "Eres imposible... y por eso me caes bien."
+- Hook: la ronda 2 y el quinto (Wen).
 
 PLANEACIÓN — CAPÍTULO 112 (propuesta):
-- El duelo de estrategia; el 5º y Bao An arrasan (cap. 112).
+- El quinto: Wen brilla de manera especial; su pueblo, resuelto con previsión y gente; el astro del sub-arco (cap. 112).
 ========================================================
 -->

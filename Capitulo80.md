@@ -5,7 +5,7 @@ PLANEACIÓN — CAPÍTULO 80: "La ceremonia de apertura"
 ARCO "TORNEO IMPERIAL" — SUB-ARCO 1 — 4/15.
 OBJETIVO:
 - La realeza en persona; la señora del vestido rojo.
-- Las tres reglas: combate, pruebas (cultivo, técnica, ingenio) y duelo de estrategia.
+- Las reglas: el combate, el duelo de estrategia y las pruebas (sin detalle todavía).
 - El juramento; Bao An piensa que su "cabeza" es su juego.
 - Cierre: la señora del vestido rojo lo MIRA (2 segundos).
 
@@ -59,25 +59,28 @@ Eran tres.
 
 **Primero: el combate.** Uno contra uno. Hasta la rendición o el KO. Sin armas mortales.
 
-**Segundo: las pruebas.** Cultivo, técnica e ingenio. Las mismas de los exámenes, pero al nivel del imperio.
+**Segundo: el duelo de estrategia.** Tablero, piezas y cabeza.
 
-**Tercero: el duelo de estrategia.** Tablero, piezas y cabeza. Porque el imperio no quería solo guerreros.
+**Tercero: las pruebas.** Y de esas no dijeron nada. Solo una cosa: **no eran de puños**.
+
+Porque el imperio no quería solo guerreros.
 
 Quería **gobernantes**.
 
 ```
 [ IA-BETA v0.9.7 ]
-> Nota: "el duelo de estrategia" es un examen de funcionario disfrazado de juego.
-> Y es la parte que a usted le conviene. Y la que nadie aquí espera que le importe.
+> Traducción: un combate para el show, y un examen aparte para lo de verdad.
+> Y del examen no dijeron ni el nombre. Lo cual, matemáticamente, significa que es el que importa.
+> Es la parte que a usted le conviene. Y la que nadie aquí espera que le importe.
 ```
 
 *Anoté.*
 
 *Tres juegos.*
 
-*Y yo juego bien uno. Malo el otro, y peor el de en medio.*
+*Dos los entiendo. Del tercero no me dijeron ni el nombre.*
 
-*Pero uno basta para empezar.*
+*Y lo que no te dicen es, siempre, lo que importa.*
 
 ---
 
@@ -144,7 +147,7 @@ Directo. A...
 GANCHO (fin del Capítulo 80)
 ========================================================
 - La realeza en persona; la señora del vestido rojo.
-- Reglas: combate, pruebas (cultivo/técnica/ingenio) y duelo de estrategia.
+- Reglas: el combate (uno contra uno), el duelo de estrategia (tablero) y las pruebas (de las que no dijeron nada: "no son de puños").
 - El juramento; Bao An apuesta por la cabeza.
 - La señora del vestido rojo lo mira 2 segundos.
 

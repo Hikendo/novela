@@ -4,30 +4,32 @@ PLANEACIÓN — CAPÍTULO 107: "La pausa"
 ========================================================
 ARCO "TORNEO IMPERIAL" — SUB-ARCO 3 "LAS PRUEBAS" — 1/15.
 OBJETIVO:
-- CONTINUIDAD (106→107): se paga la semilla "reglas nuevas" del cap. 106; el maestro explica que la etapa es de PRUEBAS, no de combates.
-- SE EXPLICA LA TRANSICIÓN: los combates se PAUSAN y empiezan las PRUEBAS (el examen de verdad).
-- Las cuatro pruebas: cultivo, técnica, ingenio y estrategia (hardware, software, criterio, liderazgo).
-- Cambia la mirada: del "chistoso del ruedo" al "competidor de verdad" (y con él, sus seis hermanos).
-- Se CONFIRMA el emparejamiento ya anunciado en 106: Bao An vs. PEI en la prueba de técnica.
+- Transición: los combates se PAUSAN y empieza el examen de verdad: la MATRIZ DE ILUSIÓN.
+- Se paga la semilla del 106 ("un pueblo").
+- Se explica a alto nivel: un pueblo simulado, treinta plazas, un problema. El tiempo adentro corre rápido.
+- Emparejamiento: el MISMO pueblo para Bao An y para PEI (dos copias) → duelo de ingenio.
+- Setup del 4º: "yo llevo a los mejores" (primera pregunta fallada; todavía no entra).
 
-RECURSOS: la IA; MODO MACHO.
+RECURSOS: la IA; MODO MACHO; informe (▌).
 
 GANCHO:
-- El asunto con Pei (cap. 108).
+- Entrar a la matriz (cap. 108).
 ========================================================
 -->
 
 # Capítulo 107 — La pausa
 
-Y las "reglas nuevas" no eran una ronda de combates.
+Y "un pueblo" no era una ronda de combates.
 
 ---
 
-Porque, cuando el maestro de ceremonias terminó de leer la lista, explicó lo que venía.
+Porque, cuando el maestro de ceremonias terminó de leer la lista de rivales, no dijo "peleen".
 
-Los combates se **pausaban**.
+Dijo otra cosa.
 
-Y empezaban las **pruebas**.
+Dijo que los combates se **pausaban**.
+
+Y que empezaban las **pruebas**.
 
 —¿Cómo que se pausan? —dijo alguien del público.
 
@@ -47,7 +49,7 @@ Silencio.
 
 Y ahí entendí la lógica.
 
-Porque un torneo de peleas sirve para entretener.
+Un torneo de peleas sirve para entretener.
 
 Pero un imperio necesita **funcionarios**.
 
@@ -55,7 +57,7 @@ Y un funcionario no se contrata porque pegue bonito.
 
 Se contrata porque piensa. Porque decide. Porque aguanta.
 
-Y eso... eso no se ve en una pelea.
+Y eso no se ve en una pelea.
 
 Se ve en una prueba.
 
@@ -63,94 +65,214 @@ Se ve en una prueba.
 [ MODO MACHO: ACTIVADO ]
 > Compa, ¿ya vio? Se acabó el circo del golpe.
 > Ahora viene lo suyo: la cabeza.
-> ¡Y ahí, con perdón, usted juega en otra liga!
+> ¡Y ahí, con permiso, usted juega en otra liga!
 ```
 
 *Ojalá.*
 
 ---
 
-Así que empezaron las pruebas.
+—¿Y en qué consiste la prueba? —preguntó alguien.
 
-Cuatro eran.
+Y el maestro sonrió.
 
-**Cultivo.** Cuánto tienes. La base.
+Y dijo cuatro palabras.
 
-**Técnica.** Qué tan bien lo usas.
+—Cada quien recibe un **pueblo**.
 
-**Ingenio.** Qué haces cuando no hay manual.
+Silencio.
 
-**Estrategia.** Cómo mandas.
+—¿Un pueblo?
 
-Y cada una tenía su arena. Su público. Y su juez.
+—Un pueblo. Treinta hombres. Y un problema.
 
-```
-[ IA-BETA v0.9.7 ]
-> Las cuatro pruebas, traducidas:
-> 1. Hardware. 2. Software. 3. Criterio. 4. Liderazgo.
-> Y entre las cuatro... usted solo domina de verdad dos.
-```
+Silencio largo.
 
-*¿Cuáles?*
+Y entonces el maestro explicó lo del artefacto.
 
-```
-> Criterio y liderazgo. O sea: la cabeza.
-> La misma cabeza que los combates no dejaban ver.
-```
+Un trasto viejo. De jade y de formaciones.
 
----
+Que el imperio guardaba en un sótano.
 
-Y ahí, entre el público, pasó una cosa.
+Y que hacía una sola cosa.
 
-La gente dejó de mirarme por mi apodo.
+Mentir.
 
-Dejó de verme como "el que canta".
-
-Y empezó a verme como **un competidor**.
-
-De verdad.
+Mentir tan bien que se vivía.
 
 ```
 [ IA-BETA v0.9.7 ]
-> Nota: cambió la mirada.
-> En el ruedo, usted era el chistoso. En las pruebas, usted es una amenaza.
-> ...Y con usted, sus seis hermanos.
+> Nombre oficial: la **matriz de ilusión**.
+> Qué hace: proyecta un pueblo entero. Casas. Calles. Gente. Clima. Hambre.
+> Y meten a un joven adentro, con treinta hombres suyos, y le dan un problema de verdad.
+> El tiempo adentro corre más rápido: un mes allá, una hora acá.
+> ...Es un videojuego. Y el que lo pase, gobierna.
 ```
 
 ---
-
-Y antes de la primera prueba...
-
-el maestro de ceremonias leyó los emparejamientos.
-
-Y el nombre ya lo sabía.
-
-Lo que no sabía era **en qué**.
-
-Mi rival, en la prueba de técnica...
 
 *Ay no.*
 
-era **Pei**.
+*Un pueblo.*
+
+*Con gente. Con calles. Con problemas.*
+
+*Y conmigo al mando.*
+
+*...*
+
+*Yo no sé mandar a nadie.*
 
 ```
 [ MODO MACHO: ACTIVADO ]
-> Bueno. Tarde o temprano.
-> Compa, esta prueba no es de puños.
-> Pero igual le va a doler.
-> Pa'lante.
+> Compa, relájese. Mandar gente es como arreglar una casa.
+> Primero ve qué se va a caer. Luego ve quién sabe clavar.
+> Y luego ve quién namás estorba.
+> ¡Y ya! ¡Eso es gobernar!
 ```
+
+---
+
+Y el público, que venía a ver sangre, no supo qué hacer.
+
+Porque no había sangre.
+
+Había... un pueblo.
+
+Y un montón de muchachos al mando de unas calles que no existían.
+
+**▌ NOTA DE LAS CASAS GRANDES**
+*Un escribiente de la Casa Feng.*
+· La prueba nueva nos favorece.
+· Nosotros nacimos mandando. Llevamos siglos mandando.
+· Que un comerciante de un pueblito juegue a gobernar es una anécdota.
+· Recomendación: ganar rápido y volver a las cosas serias.
+
+```
+[ IA-BETA v0.9.7 ]
+> Nota: las casas grandes están tranquilas.
+> Creen que esto lo van a ganar fácil: ellos nacieron mandando.
+> Y usted... usted nació preguntando "¿por qué?".
+```
+
+---
+
+Y luego leyeron los emparejamientos.
+
+Todos. Uno por uno.
+
+Y cuando llegaron al mío...
+
+*Ay no.*
+
+**Pei.**
+
+```
+[ IA-BETA v0.9.7 ]
+> Emparejamiento: el MISMO pueblo para los dos. Dos copias. Una suya, una de ella.
+> Y al final, comparan resultados.
+> Traducción: no van a pelear. Van a competir por quién **gobierna mejor**.
+> ...Eso es peor.
+```
+
+*Peor.*
+
+*Sí.*
+
+*Porque a la Pei no le gano ni cantinfleando.*
+
+*Y ahora me tocaba ganarle gobernando.*
+
+---
+
+Y esa noche, en la delegación, hablamos los siete.
+
+Porque todos teníamos un pueblo.
+
+Y todos tenían que elegir.
+
+—¿Qué llevas? —le preguntó el mayor al sexto.
+
+—Soldados —dijo el sexto—. Treinta soldados.
+
+—Yo, escribanos —dijo el quinto—. El que no anota, no gobierna.
+
+—Yo, quien sea —dijo la tercera—. La gente se me acomoda sola.
+
+—Yo, los mejores —dijo el cuarto.
+
+Y todos voltearon a verlo.
+
+—¿Los mejores en qué? —preguntó el mayor.
+
+Silencio.
+
+Y el cuarto no contestó.
+
+Porque no había pensado en eso.
+
+```
+[ IA-BETA v0.9.7 ]
+> Anotación: el cuarto acaba de fallar la primera pregunta de la prueba.
+> Y todavía no entró a la matriz.
+```
+
+*Ay no.*
+
+*Ay no, cuarto.*
+
+---
+
+Y luego todos voltearon a verme a mí.
+
+—¿Y tú, séptimo?
+
+Y yo...
+
+yo no sabía.
+
+Pero dije lo que sabía.
+
+—Yo voy a llevar... a los que hagan falta.
+
+Silencio.
+
+—Eso no es una respuesta —dijo el sexto.
+
+—Ya sé.
+
+*Y es la única que tengo.*
+
+---
+
+Y esa noche no dormí.
+
+Porque tenía un pueblo. Y treinta plazas por llenar.
+
+Y una pregunta dando vueltas.
+
+*¿A quién se le pide un pueblo?*
+
+*¿A los fuertes? ¿A los listos? ¿A los que saben hacer cosas?*
+
+Y me quedé viendo el techo.
+
+Hasta que entendí una cosa.
+
+*No voy a llevar a los mejores.*
+
+*Voy a llevar a los que hacen falta.*
 
 <!--
 ========================================================
 GANCHO (fin del Capítulo 107)
 ========================================================
-- Se paga la semilla del cap. 106 ("reglas nuevas"): la etapa es de PRUEBAS, no de combates.
-- Combates pausados → PRUEBAS (cultivo, técnica, ingenio, estrategia).
-- Cambia la mirada: Bao An pasa de "chistoso" a "amenaza".
-- Se confirma el emparejamiento ya anunciado en 106: Bao An vs. PEI en la prueba de técnica.
+- Combates pausados → el examen de verdad: la MATRIZ DE ILUSIÓN (un pueblo + 30 plazas + un problema).
+- Los combates son el show; las pruebas, el examen. Las casas grandes confían en ganar fácil.
+- Emparejamiento: Bao An vs. PEI en el MISMO pueblo (duelo de ingenio).
+- Setup del 4º: "yo llevo a los mejores" (no pensó en qué).
 
 PLANEACIÓN — CAPÍTULO 108 (propuesta):
-- El asunto con Pei se resuelve (sin pelea: cantinfleo / trampa legal / estrategia) (cap. 108).
+- Las reglas finas de la matriz y el pueblo: los treinta, los aldeanos, los jueces, el marcador; Bao An elige (cap. 108).
 ========================================================
 -->

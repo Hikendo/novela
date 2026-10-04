@@ -1,98 +1,273 @@
 <!--
 ========================================================
-PLANEACIÓN — CAPÍTULO 117: "Las casas se mueven"
+PLANEACIÓN — CAPÍTULO 117: "El arte del cantinfleo"
 ========================================================
 ARCO "TORNEO IMPERIAL" — SUB-ARCO 3 — 11/15.
 OBJETIVO:
-- Los viejos de las casas grandes se reúnen (sin los Bao) y deciden: no ensuciarse, sino buscarles un enemigo.
-- Las casas TEJEN (la guerra de verdad no se pelea, se teje).
-- Empiezan a TANTEAR a los hermanos: ofertas para comprarlos/comprar su lealtad.
-- Temor de Bao An: ahí se prueban los hermanos... y se rompen las familias.
+- ★ EL CANTINFLEO COMO ARMA SUPREMA.
+- El viejo juez (autor del reglamento) cita a declarar a Bao An: quiere que explique sus "métodos".
+- Bao An no sabe cómo explicarlos → CANTINFLEO SUPREMO (récord del Cantinflómetro).
+- El tribunal no entiende nada... y lo deja ir igual.
+- El cantinfleo se institucionaliza como "doctrina oficial" de la Casa Bao.
+- El viejo juez, derrotado sin saber cómo, se convierte en el primer enemigo del Bao dentro de la corte.
 
-RECURSOS: acta de casas (▌); la IA; MODO MACHO.
+RECURSOS: Cantinflómetro (récord); IA; MODO MACHO.
 
 GANCHO:
-- El reclutamiento de los hermanos (cap. 118).
+- El gag de los imitadores (cap. 118).
 ========================================================
 -->
 
-# Capítulo 117 — Las casas se mueven
+# Capítulo 117 — El arte del cantinfleo
 
-Y las casas, viendo todo esto, decidieron moverse.
-
-De verdad.
+Y me citaron a declarar.
 
 ---
 
-Porque los viejos se juntaron.
+A mí. Al séptimo.
 
-Los de las casas grandes.
+Y no a cualquiera: al viejo juez.
 
-Sin los Bao.
+Al que escribió el reglamento.
 
-Y hablaron.
+Y el viejo no venía a felicitarme.
 
-**▌ ACTA — REUNIÓN DE CASAS MAYORES**
-· Asunto: la Casa Bao.
-· Los Bao ganan sin pelear. Los Bao hablan sin decir. Los Bao suben sin maestros.
-· Problema: si siguen así, en diez años nos ganan todo.
-· Solución descartada: no ensuciarnos (nos verían).
-· Solución propuesta: **buscarles un enemigo**.
-
----
-
-Y así, sin pelear, las casas empezaron a conspirar.
-
-A mover sus piezas.
-
-A hablar con los jueces. A hablar con otras casas. A buscar aliados.
-
-Y todo, sin que se notara.
-
-Porque en un imperio, la guerra de verdad no se pelea.
-
-Se **teje**.
+Venía a desarmarme.
 
 ```
 [ IA-BETA v0.9.7 ]
-> Traducción: no van a atacarlos.
-> Van a hacer que otros los ataquen. Y a mirar.
-> Es la técnica más vieja del poder: la mano que no se ve.
+> Situación: interrogatorio ante el autor del reglamento.
+> Riesgo: alto. Ese señor conoce cada palabra de lo que usted "encontró".
+> Y quiere que usted lo diga en voz alta.
+> Recomendación: no sé. Nadie tiene un manual para esto.
+[ MODO MACHO: ACTIVADO ]
+> ¡SÍ lo hay, compa! ¡EL CAPÍTULO QUINCE de su vida!
+> ¡Hable bonito y no diga nada! ¡MODO CANTINFLEO SUPREMO!
 ```
 
 ---
 
-Y las casas también empezaron a tantear a **mis hermanos**.
+Y en la puerta del tribunal, el mayor me agarró del brazo.
 
-Uno por uno.
+—Séptimo.
 
-Con ofertas.
+—¿Qué?
 
-Porque, si no podían vencer a los Bao, podían... **comprarlos**.
+—No contestes nada.
+
+—¿Cómo?
+
+—Nada. Lo que digas, lo van a usar.
+
+Y el quinto, detrás, dijo una cosa:
+
+—No. Que diga mucho.
+
+Y el mayor lo miró.
+
+—Eso no tiene sentido.
+
+—Exacto —dijo el quinto—. Ese es el punto.
+
+---
+
+*Ay no.*
+
+*A ver qué sale.*
+
+---
+
+Y llegué al tribunal.
+
+Con los pies sucios, como siempre.
+
+Y el viejo juez me miró por encima del hombro.
+
+Del hombro y del reglamento.
+
+—Joven Bao —dijo—. Explíqueme sus métodos.
+
+Silencio.
+
+—A ver. Cómo se gobierna un pueblo sin soldados.
+
+Silencio largo.
+
+Y yo, la verdad, no sabía cómo explicarlo.
+
+Porque yo no tengo un método.
+
+Yo tengo... preguntas.
 
 ```
+[ IA-BETA v0.9.7 ]
+> Confirmando: el usuario no tiene método. Tiene un hábito.
+> Y explicar un hábito, a un señor que solo entiende de reglas... es imposible.
+> Publique. Publique.
+```
+
+---
+
+Y hablé.
+
+Y hablé.
+
+Y hablé.
+
+Un cantinfleo de campeonato.
+
+De los que hacen historia.
+
+—Mire usted, señor juez —dije—, la cuestión es que la cuestión no es cuestión, porque si fuera cuestión sería asunto, y el asunto ya es otra cosa, porque el asunto tiene dueño, y el dueño tiene derecho, y el derecho tiene límite, y el límite tiene puerta, y la puerta... bueno, la puerta es la que abre o la que cierra, y ahí está el detalle: que abrir y cerrar no es lo mismo, aunque las dos sean puertas, ¿me entiende?
+
+Silencio.
+
+Silencio largo.
+
+Y el viejo juez, que había escuchado todo...
+
+frunció el ceño.
+
+Y luego, asintió.
+
+—...Bien —dijo—. Puede retirarse.
+
+```
+[ Cantinflómetro: 99% ]
+> Sustancia transmitida: 0%.
+> Nuevo récord ABSOLUTO de la historia.
+> El tribunal, oficialmente, no entendió nada. Y lo dejó ir igual.
 [ MODO MACHO: ACTIVADO ]
-> Compa, ahora empieza lo bonito.
-> Van a ofrecerle a sus hermanos: oro, puestos, esposas, casas.
-> Lo que le ofrezcan a uno, no se lo ofrezcan a los siete.
-> Ahí es donde se prueban los hermanos. Y donde se rompen las familias.
+> ¡AAAAAAAAH! ¡NOVENTA Y NUEVE, COMPA!
+> ¡LE METIÓ UN SIGLO DE SILENCIO A LA CORTE!
+> ¡ES USTED UN POETA! ¡UN POETA DEL NADA!
+```
+
+---
+
+Y el viejo juez no se enojó.
+
+Eso fue lo peor.
+
+Se quedó quieto.
+
+Con el reglamento en las manos.
+
+Y dijo una frase, bajito, para él mismo:
+
+—...Y no me dijo nada.
+
+```
+[ IA-BETA v0.9.7 ]
+> Traducción del juez: acaba de entender que el niño no le contestó.
+> Y que él firmó la salida.
+> ...Se acaba de ganar un enemigo. Uno de los que firman.
 ```
 
 *Ay no.*
 
-*Eso no.*
+*Y encima, un juez.*
 
-*Eso sí me da miedo. Mucho.*
+---
+
+Y salí del tribunal.
+
+Y afuera estaba la fila de los que esperaban.
+
+Otros jóvenes. De otras casas.
+
+Y todos me miraron.
+
+Y ninguno entendió qué había pasado adentro.
+
+```
+[ IA-BETA v0.9.7 ]
+> Nota: nadie entendió. Ni usted.
+> Pero todos vieron salir a un niño de un tribunal de viejos... sin una sola marca.
+> Y eso, en una corte, es una noticia.
+```
+
+---
+
+Y esa noche, en la delegación, se celebró.
+
+---
+
+Porque los siete ya sabían lo que había pasado.
+
+Y el quinto, que todo lo apunta, lo apuntó.
+
+En su cuaderno.
+
+Y le puso un título.
+
+*"Doctrina del séptimo."*
+
+```
+[ MODO MACHO: ACTIVADO ]
+> ¡DOOCTRINAAA! ¡Lo apuntó! ¡El quinto le puso nombre!
+> ¡Ya no es técnica, patrón! ¡Ya es DOCTRINA!
+```
+
+---
+
+Y la doctrina decía esto.
+
+Lo apuntó el quinto con letra chiquita:
+
+**▌ CUADERNO DEL QUINTO — "Doctrina del séptimo"**
+· Salir de apuros sin responder.
+· Ganar tiempo sin contradecir.
+· No decir nada, pero con mucha educación.
+· Nivel de sustancia: cero. Nivel de efectividad: cien.
+· Advertencia: no sirve con conocidos. Ellos ya saben que uno no dice nada.
+
+```
+[ IA-BETA v0.9.7 ]
+> Nota: la Casa Bao acaba de institucionalizar el cantinfleo.
+> Uso oficial: sobrevivir a jueces, funcionarios y suegras.
+> ...Lo de la suegra no lo escribió el quinto. Lo escribí yo.
+```
+
+---
+
+*Anoté.*
+
+*El cantinfleo no es mentir.*
+
+*Es... no decir.*
+
+*Y eso, bien hecho, es un arte.*
+
+*Y como todo arte...*
+
+*se puede copiar.*
+
+---
+
+Y ahí empezó el problema.
+
+Porque el arte se copió.
+
+Y no lo copié yo.
+
+Lo copiaron mis hermanos.
+
+Todos.
+
+Y ahí la cosa se puso rara.
+
+De verdad.
 
 <!--
 ========================================================
 GANCHO (fin del Capítulo 117)
 ========================================================
-- Las casas grandes deciden buscarles un enemigo (no ensuciarse); "la guerra se teje".
-- Empiezan a TANTEAR a los hermanos con ofertas para comprarlos.
-- Temor de Bao An: "ahí se prueban los hermanos".
+- El cantinfleo se institucionaliza: el quinto lo apunta como "Doctrina del séptimo".
+- "No es mentir: es no decir. Y eso, bien hecho, es un arte."
+- Hook: el arte se copia... y lo copian los hermanos mayores.
 
 PLANEACIÓN — CAPÍTULO 118 (propuesta):
-- El reclutamiento (I): los funcionarios tantean a los hermanos (cap. 118).
+- Los que imitan al niño: los hermanos mayores cantinflean; todos miran raro a Bao An (cap. 118).
 ========================================================
 -->

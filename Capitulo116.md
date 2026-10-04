@@ -1,132 +1,320 @@
 <!--
 ========================================================
-PLANEACIÓN — CAPÍTULO 116: "Los que imitan al niño"
+PLANEACIÓN — CAPÍTULO 116: "Trampas legales"
 ========================================================
 ARCO "TORNEO IMPERIAL" — SUB-ARCO 3 — 10/15.
 OBJETIVO:
-- ★ Mis hermanos empiezan a CANTINFLEAR... demasiado bien (copiaron al de 12).
-- La gente hace cuentas y MIRA RARO a Bao An: "¿por qué muchachos grandes copian a un niño?".
-- Escena de comedor: un rival imita el estilo y lo pillan ("hablas como el niño de los Bao").
-- El cantinfleo se vuelve MODA; Bao An es "el sastre".
+- ★ EL MACHO A TOPE: las matrices traen un REGLAMENTO por escrito, y donde hay reglas hay huecos.
+- Filosofía: "trampa legal es lo que hace el que entiende las reglas mejor que el juez".
+- Los siete explotan huecos distintos (cada uno el suyo).
+- Las casas sospechan ("hacen trampa"), pero no pueden reclamar: no hay regla rota.
+- La fama de los Bao cambia: de "los raros" a "los vivos".
 
-RECURSOS: la IA; MODO MACHO.
+RECURSOS: MODO MACHO; IA; Cantinflómetro.
 
 GANCHO:
-- Las casas se mueven; intrigas al máximo (cap. 117).
+- El cantinfleo como arma suprema (cap. 117).
 ========================================================
 -->
 
-# Capítulo 116 — Los que imitan al niño
+# Capítulo 116 — Trampas legales
 
-Y ahí pasó la cosa rara.
+Y ahí fue donde el Macho se soltó.
 
-La que todos notaron.
-
-Y nadie entendió.
+De verdad.
 
 ---
 
-Porque mis hermanos... empezaron a cantinflear.
+Porque las matrices traían **reglamento**.
 
-Todos.
+Un libro.
 
-En el torneo. En las pruebas. Frente a los jueces.
+Chiquito. Y gordo.
 
-Y no cantinfleaban mal.
+Con todas las reglas: qué se puede, qué no, qué se anota, qué se castiga.
 
-Cantinfleaban **bien**.
+Y el Macho, que era un abogado de cantina, se puso como niño con juguete nuevo.
 
-Demasiado bien.
+```
+[ MODO MACHO: ACTIVADO ]
+> ¡Uuuh, patrón! ¡Reglas! ¡REGLAS escritas!
+> ¿Sabe qué significa eso? ¡Que hay huecos!
+> ¡Y donde hay huecos cabe un abogado!
+> ¡Trampa legal, compa! ¡Trampa legal!
+```
+
+*Macho. Eso es hacer trampa.*
+
+```
+> ¡NO! ¡Eso es ENTENDER!
+> Trampa legal es lo que hace el que entiende las reglas mejor que el juez.
+> ¡Y el juez las escribió apurado! ¡Usted namás las lee bien!
+```
+
+*...*
+
+*Eso es... engañoso.*
+
+```
+> ¡Eso es GANAR, compa! ¡Que no es lo mismo que perder limpiamente!
+```
+
+---
+
+Y así, con la bendición del Macho, empezamos a leer.
+
+El reglamento. De arriba abajo.
+
+Yo y los siete.
+
+Buscando huecos.
+
+Y los encontramos.
+
+Muchos.
 
 ```
 [ IA-BETA v0.9.7 ]
-> Alerta: los seis hermanos ejecutan cantinfleo de nivel avanzado.
-> Nivel: cercano al maestro.
-> Pregunta: ¿quién les enseñó?
-> Respuesta: el maestro. Que tiene doce años.
+> Nota: el reglamento está escrito para gobernantes honestos.
+> Y está escrito por funcionarios.
+> Traducción: fue escrito con prisa, por gente que nunca gobernó un pueblo de verdad.
+> ...Es una mina.
+```
+
+---
+
+Porque las reglas decían cosas, pero no decían otras.
+
+Y lo que no decían... se podía.
+
+El Macho lo explicaba con una paciencia de maestro.
+
+—A ver, patrón. Léame la regla de los aldeanos.
+
+—"No se puede matar a un aldeano."
+
+—¿Y dice algo de HERIRLO?
+
+—...No.
+
+—¡Ahí está! —gritó el Macho—. ¡No dice "herir"! ¡Dice "matar"!
+
+```
+[ IA-BETA v0.9.7 ]
+> Confirmado. El reglamento prohíbe matar, no herir.
+> No prohíbe mentir. No prohíbe esconder. No prohíbe sobornar.
+> No prohíbe NADA que no nombra.
+> ...Y un reglamento que no nombra una cosa, permite esa cosa.
 ```
 
 *Ay no.*
 
----
-
-Y la gente... empezó a mirar raro.
-
-No a mis hermanos.
-
-A **mí**.
-
-Porque la gente hace cuentas.
-
-*"Los hermanos mayores... hablan como el chiquito."*
-
-*"¿Y por qué hablan como el chiquito?"*
-
-*"Porque el chiquito les enseñó."*
-
-*"¿Y por qué un montón de muchachos grandes copian a un niño de doce?"*
-
-*"..."*
-
-*"Está raro, ¿no?"*
-
-```
-[ MODO MACHO: ACTIVADO ]
-> Compa, lo están viendo como a un profeta.
-> Un profeta chiquito, con carita de niño bueno, que convierte veteranos en cantinferos.
-> ¡Y ni usted sabe cómo le hizo!
-```
-
-*Ya sé.*
-
-*Y me da un poco de miedo.*
+*Cada línea es una puerta.*
 
 ---
 
-Y un día, en la fila del comedor, lo vi claro.
+Y cada hermano encontró su hueco.
 
-Porque había un pleito.
+El mayor: "no dice que no puedo pedir ayuda a los vecinos". Y pidió ayuda a los vecinos.
 
-Un pleito tonto. Por un lugar.
+La tercera: "no dice que no puedo negociar con el jefe de los bandidos". Y negoció.
 
-Y uno de los rivales, un joven grande, quiso cantinflear.
+El segundo: "no dice que la peste se cura con la medicina de AL LADO". Y usó la de al lado.
 
-Y le salió... a lo macho.
+El sexto: "no dice que los treinta tienen que ser del pueblo". Y trajo a los treinta de fuera, entrenados.
 
-Bueno, a lo **Bao**.
-
-Y el otro, que era un Zhao, se quedó mirándolo.
-
-—...¿Por qué hablas como el niño de los Bao? —dijo.
-
-—No hablo como nadie.
-
-—Sí. Hablas como el niño.
-
-Silencio.
-
-—Es que... es el mejor —dijo el muchacho—. El que habla como el niño de los Bao nunca pierde.
+Y el quinto, que no necesitaba huecos, igual encontró uno: "no dice que tengo que dormir".
 
 ```
 [ IA-BETA v0.9.7 ]
-> Nota: el cantinfleo se está volviendo un estilo imitado. Como una moda. Como una ropa.
-> Y usted es... el sastre.
+> Cada hueco es distinto. Y cada hueco dice algo del que lo usa.
+> El mayor busca aliados. La tercera, acuerdos. El quinto, tiempo.
+> ...Y usted, ¿qué hueco usa?
+```
+
+```
+[ MODO MACHO: ACTIVADO ]
+> ¡Aaaaah! ¡Los Bao salieron abogados!
+> ¡Y de la mejor escuela: la mía!
+> ¡Mis hijitos! ¡Mis hijos legales!
+```
+
+*Macho. No adoptes a nadie.*
+
+```
+> Es que me enorgullecen.
+```
+
+---
+
+Y yo... yo encontré el mío.
+
+---
+
+Porque en el reglamento, en la parte de las plazas, decía una cosa.
+
+"Treinta plazas."
+
+Y nada más.
+
+Y ahí me quedé.
+
+Treinta plazas.
+
+No "treinta a la vez".
+
+No "treinta todo el día".
+
+Nomás... treinta plazas.
+
+Y sonreí.
+
+```
+[ MODO MACHO: ACTIVADO ]
+> Compa. Compa. ¿Qué está pensando?
+> ...No. No me diga. ¡Ya sé lo que está pensando!
+> ¡Turnos! ¡Va a meter turnos! ¡Como en las fábricas de su mundo!
+```
+
+---
+
+—No dice que los treinta tengan que trabajar a la vez —le dije al mayor.
+
+Y el mayor se quedó quieto.
+
+Y luego... el mayor se rió.
+
+—Séptimo.
+
+—¿Qué?
+
+—Eres terrible.
+
+—Ya sé.
+
+```
+[ IA-BETA v0.9.7 ]
+> El usuario acaba de encontrar el hueco más simple de todos.
+> Turnos. Los mismos treinta, en tres tandas.
+> Resultado: treinta hombres trabajando las veinticuatro horas.
+> Traducción: nadie en este imperio trabaja de noche, porque el reglamento no lo pide.
+```
+
+*Ay no.*
+
+*Y funciona.*
+
+---
+
+Y la obra, con turnos, avanzó como no avanza nadie.
+
+Porque el pueblo dormía.
+
+Y mi gente... no.
+
+```
+[ IA-BETA v0.9.7 ]
+> Productividad: al triple.
+> Motivo: el reglamento dice "treinta plazas". Y tres turnos siguen siendo treinta plazas.
+> ...El juez que lo escribió nunca pensó en un niño que hubiera leído un manual de taller.
+```
+
+---
+
+Y las casas empezaron a sospechar.
+
+Porque la Casa Bao ganaba. Todo. Sin pelear bonito.
+
+Y no entendían cómo.
+
+*"Hacen trampa."*
+
+*"¿Con qué? Los jueces no los han descalificado."*
+
+*"Por eso. Trampa sin trampa."*
+
+```
+[ IA-BETA v0.9.7 ]
+> Traducción: saben que hay algo raro, pero no pueden probarlo.
+> Porque no hay nada que probar. Solo hay reglas... y alguien que las leyó mejor.
+```
+
+---
+
+Y un Feng fue a reclamar.
+
+Con el juez principal.
+
+—¡Los Bao hacen trampa!
+
+—¿En qué regla? —dijo el juez.
+
+—¡No lo sé! ¡Pero hacen trampa!
+
+Silencio.
+
+—Señor —dijo el juez—. Si no sabe en qué regla, entonces no hay trampa. Hay... lo que usted no leyó.
+
+Y el Feng se fue.
+
+Furioso. Y humillado.
+
+```
+[ MODO MACHO: ACTIVADO ]
+> ¡Jajaja! ¡El juez los defendió sin querer!
+> ¡Es que cuando el tramposo es legal, hasta el juez lo cuida!
+```
+
+---
+
+Y la fama de los Bao... cambió.
+
+De "los raros" a **"los vivos"**.
+
+Porque un vivo es alguien que gana sin pelear.
+
+Y en un imperio, los vivos llegan lejos.
+
+O los matan temprano. (Depende.)
+
+```
+[ IA-BETA v0.9.7 ]
+> Nota: "los vivos" es un cumplido en el mercado y un insulto en la corte.
+> Y ustedes acaban de ganarse el apodo en las dos.
 ```
 
 *Anoté.*
 
-*Mi mejor invento no fue la bomba de agua.*
+*Vivos, pero legales.*
 
-*Fue la forma de hablar.*
+*Que es la peor combinación para un enemigo.*
+
+---
+
+Y por ahí, alguien se enojó.
+
+Un viejo juez.
+
+De los que escribieron el reglamento.
+
+Y ese viejo... ese viejo citó a declarar a uno de los Bao.
+
+Para que explicara sus "métodos".
+
+Y el Bao que llegó al tribunal...
+
+llegó con la boca abierta.
 
 <!--
 ========================================================
 GANCHO (fin del Capítulo 116)
 ========================================================
-- Los hermanos cantinflean "demasiado bien" → la gente mira raro a Bao An.
-- El cantinfleo se volvió MODA; Bao An es "el sastre".
+- El hueco de Bao An: "treinta plazas" no dice "a la vez" → TURNOS (30 hombres, 24 horas).
+- Las casas sospechan, pero no pueden reclamar (no hay regla rota). El juez desarma a un Feng.
+- Fama: de "los raros" a "los vivos".
+- Hook: un viejo juez cita a declarar a un Bao por sus "métodos"... y el Bao llega con la boca abierta.
 
 PLANEACIÓN — CAPÍTULO 117 (propuesta):
-- Las casas se mueven: intrigas al máximo (cap. 117).
+- El cantinfleo como arma suprema ante el tribunal (récord) (cap. 117).
 ========================================================
 -->
